@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to GILPYO's GitHub</h1>
+<p align="center">
+  <img src="./assets/github-profile.gif" alt="Welcome to GILPYO'S Github!" />
+</p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
