@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/github-profile.gif" alt="Welcome to GILPYO'S Github!" />
-</p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
