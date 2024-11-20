@@ -19,3 +19,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GILJJAM&layout=dark)
