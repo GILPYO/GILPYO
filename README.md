@@ -1,9 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm GILPYO</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3E97D8&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+and+Next.js+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dTJd5ygpxkzWo/giphy.gif" alt="Cute Dog" width="300" />
 </p>
 
 ---
@@ -44,11 +47,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GILPYO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/GILPYO">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GILPYO&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
+<h3 align="center">🌟 Fun Animation 🌟</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o72F8t9TDi2xVnxOE/giphy.gif" alt="Dog Animation" width="200" />
+</p>
