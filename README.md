@@ -50,8 +50,4 @@
 
 ---
 
-<h3 align="center">🌟 Fun Animation 🌟</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o72F8t9TDi2xVnxOE/giphy.gif" alt="Dog Animation" width="200" />
-</p>
