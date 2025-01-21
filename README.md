@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GILPYO</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h3 align="center">frontend developer from South Korea</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3E97D8&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+and+Next.js+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
