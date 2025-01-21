@@ -37,11 +37,7 @@
 
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 
-<p align="center">
-  <a href="https://github.com/GILPYO">
-    <img src="https://streak-stats.demolab.com?user=GILPYO&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+
 <p align="center">
   <a href="https://github.com/GILPYO">
     <img src="https://github-readme-stats.vercel.app/api?username=GILPYO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
